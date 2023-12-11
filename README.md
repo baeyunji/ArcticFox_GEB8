@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=81DAF5&height=180&section=header&text=*북극여우의*모험*&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=81DAF5&height=100&section=header&text=*바다사자의*유혹*&fontSize=50&fontColor=FFFFFF&animation=twinkling)
 # Introduce
-2023학년도 2학기 게임엔진기초 
 
-이 게임 어디서 8조
+### 2023학년도 2학기 게임엔진기초 
+
+#### 이 게임 어디서 8조
 
 # Download
 exe: https://drive.google.com/file/d/1j0zz-JEqGyBvN_wSPL-RoiMv2eWDN-ER/view?usp=drive_link
