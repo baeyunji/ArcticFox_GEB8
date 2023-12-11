@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=ArcticFox%_GEB%8&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=ArcticFox%_GEB8%&fontSize=90)
 
 # Introduce
 2023학년도 2학기 게임엔진기초 
