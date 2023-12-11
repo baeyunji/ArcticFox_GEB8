@@ -24,7 +24,12 @@ source: https://drive.google.com/file/d/1DjuwmCOf7S2zteuv7IMoOw0__U4crcuJ/view
     
   
 # Preview
+![3](https://github.com/baeyunji/ArcticFox_GEB8/blob/main/image/11.png)
+![4](https://github.com/baeyunji/ArcticFox_GEB8/blob/main/image/22.png)
+![2](https://github.com/baeyunji/ArcticFox_GEB8/blob/main/image/ThirdPersonMap.gif)
 ![image/gif11.gif](https://github.com/baeyunji/ArcticFox_GEB8/blob/main/image/gif11.gif)
+
+
 # team
 김민섭
 
