@@ -14,9 +14,8 @@ source: https://drive.google.com/file/d/1DjuwmCOf7S2zteuv7IMoOw0__U4crcuJ/view
 # Description
 - 엔진: Unreal Engine 5.0.3
 - 개발언어: Blueprint
-- 개발기간:
-- 게임컨셉:
-
+- 개발기간: 23.10.13 ~ 23.12.11
+- 게임컨셉: 
 # Preview
 
 # team
